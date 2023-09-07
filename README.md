@@ -1,3 +1,3 @@
 # Demo
 This is My First Git Repository
-Author-Govind Singh
+Author-Govind Singh (Student)
